@@ -63,12 +63,14 @@ Model graph:
 Calculation: 
 
 Open circuit characteristics
-[BEEE Exp 2 part A.pdf](https://github.com/user-attachments/files/24328053/BEEE.Exp.2.part.A.pdf)
+<img width="482" height="413" alt="image" src="https://github.com/user-attachments/assets/468d381a-829a-443e-8b4f-f3c8fd116cd1" />
+
 
 
   
 Load Characteristics:
-[BEEE EXP 2.pdf](https://github.com/user-attachments/files/24328061/BEEE.EXP.2.pdf)
+<img width="574" height="554" alt="image" src="https://github.com/user-attachments/assets/c34f9e0e-cd4d-4b53-b077-7e9fa4889557" />
+
 
 
 
