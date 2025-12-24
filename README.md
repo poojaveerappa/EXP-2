@@ -60,15 +60,15 @@ Model graph:
 
 <img width="958" height="500" alt="image" src="https://github.com/user-attachments/assets/97533348-0800-4038-9313-f33568784abe" />
 
-Calculation: 
+Open circuit characteristics :
 
-Open circuit characteristics
 <img width="482" height="413" alt="image" src="https://github.com/user-attachments/assets/468d381a-829a-443e-8b4f-f3c8fd116cd1" />
 
 
 
   
 Load Characteristics:
+
 <img width="574" height="554" alt="image" src="https://github.com/user-attachments/assets/c34f9e0e-cd4d-4b53-b077-7e9fa4889557" />
 
 
